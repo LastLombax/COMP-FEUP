@@ -2,13 +2,12 @@
 
 ## GROUP: G33
 
-|Name               | Number    | Grade | Contribuition
-| ------------- |:-------------:| -----:|--------:|
-|Danny Soares       | 201505509 | 18    | 25%
-|João Pinheiro      | 201104913 | 18    | 25%
-|Leonardo Teixeira  | 201502848 | 18    | 25%
-|Vitor Magalhães    | 201503447 | 18    | 25%
-
+|Name               | Number    | Grade | Contribuition | Profile
+| ------------- |:-------------:| -----:|--------:| --------:|
+|Danny Soares       | 201505509 | 18    | 25%   | [therealdelay](https://github.com/therealdelay)
+|João Pinheiro      | 201104913 | 18    | 25%   | [joaopedrofump](https://github.com/joaopedrofump)
+|Leonardo Teixeira  | 201502848 | 18    | 25%   | [leonardomgt](https://github.com/leonardomgt)
+|Vitor Magalhães    | 201503447 | 18    | 25%   | [LastLombax](https://github.com/LastLombax)
 
 #### GLOBAL Grade of the project: 18
 
